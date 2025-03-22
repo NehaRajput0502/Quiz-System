@@ -37,4 +37,4 @@ wait for a while..
 1️⃣ **Clone the Repository**  
 ```bash
 git clone https://github.com/your-repo/Quiz-System.git
-cd project-name
+cd Quiz-System
