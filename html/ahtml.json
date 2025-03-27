@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. Which HTML5 element is used to define navigation links?",
+        "options": ["nav", "menu", "section", "aside"],
+        "correct": 0
+    },
+    {
+        "question": "2. What does the 'placeholder' attribute do in an input field?",
+        "options": ["Provides a hint text", "Validates input", "Sets default value", "Changes input type"],
+        "correct": 0
+    },
+    {
+        "question": "3. Which HTML5 element is used for self-contained content like articles or blog posts?",
+        "options": ["article", "section", "div", "header"],
+        "correct": 0
+    },
+    {
+        "question": "4. What is the purpose of the 'data-' attribute in HTML5?",
+        "options": ["Store custom data", "Define metadata", "Link stylesheets", "Add interactivity"],
+        "correct": 0
+    },
+    {
+        "question": "5. Which attribute in the 'input' tag is used for email validation?",
+        "options": ["type='email'", "validate='email'", "pattern='email'", "format='email'"],
+        "correct": 0
+    },
+    {
+        "question": "6. What is the correct way to specify an audio file in HTML5?",
+        "options": ["audio", "sound", "music", "mp3"],
+        "correct": 0
+    },
+    {
+        "question": "7. Which HTML5 element is used for marking up code snippets?",
+        "options": ["code", "pre", "syntax", "script"],
+        "correct": 0
+    },
+    {
+        "question": "8. What is the main purpose of the 'canvas' element in HTML5?",
+        "options": ["Render graphics", "Display images", "Create forms", "Enhance SEO"],
+        "correct": 0
+    },
+    {
+        "question": "9. Which tag is used to define a dropdown list in HTML?",
+        "options": ["select", "dropdown", "list", "option"],
+        "correct": 0
+    },
+    {
+        "question": "10. Which HTML5 element defines text that should be isolated from its surrounding content?",
+        "options": ["bdi", "bdo", "span", "mark"],
+        "correct": 0
+    },
+    {
+        "question": "11. What is the purpose of the 'contenteditable' attribute?",
+        "options": ["Makes an element editable", "Prevents input", "Hides content", "Changes font"],
+        "correct": 0
+    },
+    {
+        "question": "12. Which attribute is used to specify an alternate text for an image?",
+        "options": ["alt", "title", "src", "desc"],
+        "correct": 0
+    },
+    {
+        "question": "13. What does the 'autofocus' attribute do in an input field?",
+        "options": ["Focuses input automatically", "Validates input", "Enables autocomplete", "Changes text color"],
+        "correct": 0
+    },
+    {
+        "question": "14. Which tag is used to create a numbered list?",
+        "options": ["ol", "ul", "li", "list"],
+        "correct": 0
+    },
+    {
+        "question": "15. Which HTML5 feature provides real-time editing of text?",
+        "options": ["contenteditable", "textedit", "editable", "edittext"],
+        "correct": 0
+    },
+    {
+        "question": "16. Which element is used to display a scalar measurement within a known range?",
+        "options": ["meter", "progress", "range", "scale"],
+        "correct": 0
+    },
+    {
+        "question": "17. Which HTML5 attribute is used to define a tooltip for an element?",
+        "options": ["title", "alt", "tooltip", "hint"],
+        "correct": 0
+    },
+    {
+        "question": "18. What does the 'hidden' attribute do?",
+        "options": ["Hides an element", "Disables an element", "Removes an element", "Makes an element read-only"],
+        "correct": 0
+    },
+    {
+        "question": "19. What is the default display property of the 'span' element?",
+        "options": ["inline", "block", "inline-block", "flex"],
+        "correct": 0
+    },
+    {
+        "question": "20. Which HTML5 element is used to group heading content in a document?",
+        "options": ["header", "nav", "section", "aside"],
+        "correct": 0
+    }
+]

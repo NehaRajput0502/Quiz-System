@@ -21,7 +21,7 @@
     },
     {
         "question": "5. Which tag is used to create a hyperlink in HTML?",
-        "options": ["<a>", "<link>", "<href>", "<url>"],
+        "options": ["a", "link", "href", "url"],
         "correct": 0
     },
     {
@@ -36,12 +36,12 @@
     },
     {
         "question": "8. Which HTML tag is used to make text bold?",
-        "options": ["<bold>", "<b>", "<strong>", "<em>"],
+        "options": ["bold", "b", "strong", "em"],
         "correct": 1
     },
     {
         "question": "9. Which tag is used for inserting a blockquote?",
-        "options": ["<quote>", "<bq>", "<blockquote>", "<cite>"],
+        "options": ["quote", "bq", "blockquote", "cite"],
         "correct": 2
     },
     {
@@ -61,37 +61,37 @@
     },
     {
         "question": "13. What is the correct HTML for creating a hyperlink?",
-        "options": ["<a href='https://example.com'>Example</a>", "<link src='https://example.com'>Example</link>", "<url link='https://example.com'>Example</url>", "<a>https://example.com</a>"],
+        "options": ["&lt;a href='https://example.com'&gt;Example&lt;/a&gt;", "&lt;link src='https://example.com'&gt;Example&lt;/link&gt;", "&lt;url link='https://example.com'&gt;Example&lt;/url&gt;", "&lt;a&gt;https://example.com&lt;/a&gt;"],
         "correct": 0
     },
     {
         "question": "14. How can you make an image clickable in HTML?",
-        "options": ["<a href='link'><img src='image.jpg'></a>", "<img href='link' src='image.jpg'>", "<click src='image.jpg' link='link'>", "<image link='link' src='image.jpg'>"],
+        "options": ["&lt;a href='link'&gt;&lt;img src='image.jpg'&gt;&lt;/a&gt;", "&lt;img href='link' src='image.jpg'&gt;", "&lt;click src='image.jpg' link='link'&gt;", "&lt;image link='link' src='image.jpg'&gt;"],
         "correct": 0
     },
     {
         "question": "15. Which tag is used to insert an image in HTML?",
-        "options": ["<img>", "<image>", "<picture>", "<src>"],
+        "options": ["img", "image", "picture", "src"],
         "correct": 0
     },
     {
         "question": "16. Which HTML element is used to specify a favicon?",
-        "options": ["<favicon>", "<icon>", "<link rel='icon'>", "<meta name='favicon'>"],
+        "options": ["favicon", "icon", "link rel='icon'", "meta name='favicon'"],
         "correct": 2
     },
     {
         "question": "17. What is the correct HTML element for inserting a table?",
-        "options": ["<table>", "<grid>", "<tab>", "<data>"],
+        "options": ["table", "grid", "tab", "data"],
         "correct": 0
     },
     {
         "question": "18. What is the correct way to start an ordered list?",
-        "options": ["<ol>", "<ul>", "<list>", "<li>"],
+        "options": ["ol", "ul", "list", "li"],
         "correct": 0
     },
     {
         "question": "19. Which HTML element is used for grouping together inline elements?",
-        "options": ["<div>", "<span>", "<section>", "<article>"],
+        "options": ["div", "span", "section", "article"],
         "correct": 1
     },
     {
@@ -101,7 +101,7 @@
     },
     {
         "question": "21. Which HTML element is used to embed an iframe?",
-        "options": ["<frame>", "<iframe>", "<embed>", "<window>"],
+        "options": ["frame", "iframe", "embed", "window"],
         "correct": 1
     },
     {
@@ -116,7 +116,7 @@
     },
     {
         "question": "24. Which HTML tag is used to play video?",
-        "options": ["<media>", "<mp4>", "<video>", "<movie>"],
+        "options": ["media", "mp4", "video", "movie"],
         "correct": 2
     },
     {
@@ -151,7 +151,7 @@
     },
     {
         "question": "31. Which tag is used to define a footer in HTML5?",
-        "options": ["<footer>", "<bottom>", "<foot>", "<section>"],
+        "options": ["footer", "bottom", "foot", "section"],
         "correct": 0
     },
     {
@@ -161,43 +161,43 @@
     },
     {
         "question": "33. Which tag is used to define an interactive button?",
-        "options": ["<click>", "<btn>", "<button>", "<press>"],
+        "options": ["click", "btn", "button", "press"],
         "correct": 2
     },
     {
         "question": "34. Which HTML tag is used to create a definition list?",
-        "options": ["<list>", "<dl>", "<deflist>", "<dlist>"],
+        "options": ["list", "dl", "deflist", "dlist"],
         "correct": 1
     },
     {
         "question": "35. Which tag is used to define a progress bar in HTML5?",
-        "options": ["<progress>", "<bar>", "<meter>", "<status>"],
+        "options": ["progress", "bar", "meter", "status"],
         "correct": 0
     },
     {
         "question": "36. Which HTML tag is used to improve SEO by defining a web page's description?",
-        "options": ["<description>", "<meta>", "<summary>", "<title>"],
+        "options": ["description", "meta", "summary", "title"],
         "correct": 1
     },
     {
         "question": "37. Which tag helps search engines understand the primary heading of a page?",
-        "options": ["<h1>", "<title>", "<header>", "<meta>"],
+        "options": ["h1", "title", "header", "meta"],
         "correct": 0
     },
     {
-        "question": "38. Which meta tag is used to specify the character encoding for a webpage?",
-        "options": ["<meta encoding=\"utf-8\">", "<meta charset=\"utf-8\">", "<encoding>", "<charset>"],
+        "question": "38. Which HTML5 API is used to store data locally within the user's browser?",
+        "options": ["localStorage", "sessionStorage", "cookies", "database"],
         "correct": 1
     },
     {
         "question": "39. Which tag is not used for create table in HTML5?",
-        "options": ["<t>", "<table>", "<tr>", "<td>"],
+        "options": ["t", "table", "tr", "td"],
         "correct": 0
     },
     {
-        "question": "40. Which meta tag helps in mobile-friendly website development?",
-        "options": ["<meta name=\"mobile\" content=\"true\">", "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">", "<meta name=\"responsive\" content=\"enabled\">", "<meta name=\"screen\" content=\"auto-scale\">"],
-        "correct": 1
+        "question": "40. Which HTML5 feature allows a website to work offline?",
+        "options": ["Service Workers", "Cache API", "Web Workers", "IndexedDB"],
+        "correct": 0
     },
     {
         "question": "41. Which attribute is used in HTML to improve accessibility for screen readers?",
@@ -226,7 +226,7 @@
     },
     {
         "question": "46. Which HTML5 element is used to define a piece of self-contained content?",
-        "options": ["<section>", "<aside>", "<article>", "<main>"],
+        "options": ["section", "aside", "article", "main"],
         "correct": 2
     },
     {
@@ -241,11 +241,11 @@
     },
     {
         "question": "49. Which HTML5 tag is used to create a progress bar?",
-        "options": ["<progress>", "<bar>", "<meter>", "<gauge>"],
+        "options": ["WebSocket", "AJAX", "Fetch", "REST API"],
         "correct": 0
     },
     {
-        "question": "50. Which tag is used to insert a line break in HTML?",
+        "question": "50. Which API in HTML5 enables real-time two-way communication between a client and a server?",
         "options": ["<br>", "<lb>", "<newline>", "<break>"],
         "correct": 0
     }

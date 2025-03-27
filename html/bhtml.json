@@ -1,17 +1,52 @@
 [
     {
-        "question": "What is the capital of France?",
-        "options": ["Berlin", "Madrid", "Paris", "Rome"],
+        "question": "1. What does HTML stand for?",
+        "options": ["Hyperlinks and Text Markup Language", "Hyper Text Markup Language", "High-Level Text Markup Language", "Home Tool Markup Language"],
+        "correct": 1
+    },
+    {
+        "question": "2. Which attribute is used to specify an image source in HTML?",
+        "options": ["href", "link", "src", "image"],
         "correct": 2
     },
     {
-        "question": "Which language runs in a web browser?",
-        "options": ["Java", "C", "Python", "JavaScript"],
-        "correct": 3
+        "question": "3. Which attribute is used to open a hyperlink in a new tab?",
+        "options": ["target=\"_blank\"", "newtab=\"true\"", "window=\"_new\"", "href=\"new\""],
+        "correct": 0
     },
     {
-        "question": "What does HTML stand for?",
-        "options": ["Hyper Text Markup Language", "Hyper Transfer Markup Language", "High Text Machine Language", "Home Tool Markup Language"],
+        "question": "4. What is the correct doctype declaration for HTML5?",
+        "options": ["!DOCTYPE html", "!DOCTYPE HTML5", "!HTML", "html doctype=\"5\""],
+        "correct": 0
+    },
+    {
+        "question": "5. Which attribute is used to define alternative text for an image?",
+        "options": ["alt", "title", "src", "desc"],
+        "correct": 0
+    },
+    {
+        "question": "6. Which element is used to define metadata about an HTML document?",
+        "options": ["meta", "script", "header", "footer"],
+        "correct": 0
+    },
+    {
+        "question": "7. Which attribute is used to set a unique identifier for an HTML element?",
+        "options": ["id", "class", "name", "key"],
+        "correct": 0
+    },
+    {
+        "question": "8. Which attribute is used to specify inline styles in HTML?",
+        "options": ["style", "class", "css", "format"],
+        "correct": 0
+    },
+    {
+        "question": "9. Which attribute is used to make a text input field required?",
+        "options": ["required", "validate", "must", "needed"],
+        "correct": 0
+    },
+    {
+        "question": "10. Which element is used to group headings, navigation, and introductory content?",
+        "options": ["header", "section", "nav", "aside"],
         "correct": 0
     }
 ]

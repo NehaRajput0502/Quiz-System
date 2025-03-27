@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. Which attribute is used to define inline styles in HTML?",
+        "options": ["style", "class", "css", "inline"],
+        "correct": 0
+    },
+    {
+        "question": "2. What is the purpose of the 'data-' attribute in HTML5?",
+        "options": ["To store custom data", "To style elements", "To create animations", "To define metadata"],
+        "correct": 0
+    },
+    {
+        "question": "3. Which HTML5 tag is used to define navigation links?",
+        "options": ["nav", "menu", "ul", "header"],
+        "correct": 0
+    },
+    {
+        "question": "4. What is the correct syntax for making an input field required?",
+        "options": ["input required", "input type='required'", "input mandatory", "input validate"],
+        "correct": 0
+    },
+    {
+        "question": "5. Which HTML element is used to define a section of a document?",
+        "options": ["section", "div", "article", "aside"],
+        "correct": 0
+    },
+    {
+        "question": "6. What is the correct tag for creating an unordered list?",
+        "options": ["ul", "ol", "list", "li"],
+        "correct": 0
+    },
+    {
+        "question": "7. Which HTML5 element is used to embed a video?",
+        "options": ["video", "media", "embed", "movie"],
+        "correct": 0
+    },
+    {
+        "question": "8. What does the 'colspan' attribute do in a table?",
+        "options": ["Merges columns", "Merges rows", "Creates a column", "Changes table color"],
+        "correct": 0
+    },
+    {
+        "question": "9. Which HTML5 element is used to define important text?",
+        "options": ["strong", "b", "mark", "highlight"],
+        "correct": 0
+    },
+    {
+        "question": "10. Which HTML5 element is used to group form elements?",
+        "options": ["fieldset", "formgroup", "div", "group"],
+        "correct": 0
+    },
+    {
+        "question": "11. What is the purpose of the 'progress' element in HTML5?",
+        "options": ["Displays a progress bar", "Creates a loading spinner", "Indicates a form submission", "Tracks user activity"],
+        "correct": 0
+    },
+    {
+        "question": "12. Which attribute is used to specify that an input field must be filled out?",
+        "options": ["required", "validate", "mustfill", "mandatory"],
+        "correct": 0
+    },
+    {
+        "question": "13. Which HTML5 element is used to define an audio file?",
+        "options": ["audio", "sound", "media", "music"],
+        "correct": 0
+    },
+    {
+        "question": "14. What is the purpose of the 'pattern' attribute in an input field?",
+        "options": ["To define a regex pattern for validation", "To apply a CSS style", "To store data", "To define an input format"],
+        "correct": 0
+    },
+    {
+        "question": "15. Which element is used to define a self-contained piece of content?",
+        "options": ["article", "section", "div", "aside"],
+        "correct": 0
+    },
+    {
+        "question": "16. Which HTML tag is used to create a horizontal line?",
+        "options": ["hr", "line", "br", "underline"],
+        "correct": 0
+    },
+    {
+        "question": "17. Which HTML5 attribute specifies that an input field should be auto-completed?",
+        "options": ["autocomplete", "autofill", "autocomp", "filldata"],
+        "correct": 0
+    },
+    {
+        "question": "18. What does the 'srcset' attribute in an img tag do?",
+        "options": ["Defines multiple image sources for different screens", "Adds a caption to the image", "Changes the image size", "Specifies an alternate text"],
+        "correct": 0
+    },
+    {
+        "question": "19. What is the correct tag for making text italic?",
+        "options": ["i", "italic", "em", "style"],
+        "correct": 0
+    },
+    {
+        "question": "20. Which tag is used to create a form in HTML?",
+        "options": ["form", "input", "textbox", "data"],
+        "correct": 0
+    }
+]
