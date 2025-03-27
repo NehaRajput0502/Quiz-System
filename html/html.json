@@ -1,0 +1,252 @@
+[
+    {
+        "question": "1. What does HTML stand for?",
+        "options": ["Hyperlinks and Text Markup Language", "Hyper Text Markup Language", "High-Level Text Markup Language", "Home Tool Markup Language"],
+        "correct": 1
+    },
+    {
+        "question": "2. Which software is commonly used as an HTML editor?",
+        "options": ["Microsoft Excel", "Adobe Photoshop", "Notepad++", "CorelDRAW"],
+        "correct": 2
+    },
+    {
+        "question": "3. Which tag is used to define the main heading in an HTML document?",
+        "options": ["h1 tag", "<head tag", "header tag", "title tag"],
+        "correct": 0
+    },
+    {
+        "question": "4. What is the correct HTML element for inserting a line break?",
+        "options": ["break", "lb", "br", "newline"],
+        "correct": 2
+    },
+    {
+        "question": "5. Which tag is used to create a hyperlink in HTML?",
+        "options": ["<a>", "<link>", "<href>", "<url>"],
+        "correct": 0
+    },
+    {
+        "question": "6. What is the default alignment of text inside an HTML paragraph?",
+        "options": ["Center", "Left", "Right", "Justify"],
+        "correct": 1
+    },
+    {
+        "question": "7. How can you apply an inline style in HTML?",
+        "options": ["Using the style tag", "Using the 'style' attribute", "Using an external CSS file", "Using the script tag"],
+        "correct": 1
+    },
+    {
+        "question": "8. Which HTML tag is used to make text bold?",
+        "options": ["<bold>", "<b>", "<strong>", "<em>"],
+        "correct": 1
+    },
+    {
+        "question": "9. Which tag is used for inserting a blockquote?",
+        "options": ["<quote>", "<bq>", "<blockquote>", "<cite>"],
+        "correct": 2
+    },
+    {
+        "question": "10. What is the correct way to add a comment in HTML?",
+        "options": ["// This is a comment", "<!-- This is a comment -->", "/* This is a comment */", "<comment> This is a comment </comment>"],
+        "correct": 1
+    },
+    {
+        "question": "11. Which HTML attribute is used to define inline styles?",
+        "options": ["class", "style", "id", "css"],
+        "correct": 1
+    },
+    {
+        "question": "12. How do you specify a background color for an HTML element?",
+        "options": ["background='red'", "bgcolor='red'", "style='background-color:red;'", "color='red'"],
+        "correct": 2
+    },
+    {
+        "question": "13. What is the correct HTML for creating a hyperlink?",
+        "options": ["<a href='https://example.com'>Example</a>", "<link src='https://example.com'>Example</link>", "<url link='https://example.com'>Example</url>", "<a>https://example.com</a>"],
+        "correct": 0
+    },
+    {
+        "question": "14. How can you make an image clickable in HTML?",
+        "options": ["<a href='link'><img src='image.jpg'></a>", "<img href='link' src='image.jpg'>", "<click src='image.jpg' link='link'>", "<image link='link' src='image.jpg'>"],
+        "correct": 0
+    },
+    {
+        "question": "15. Which tag is used to insert an image in HTML?",
+        "options": ["<img>", "<image>", "<picture>", "<src>"],
+        "correct": 0
+    },
+    {
+        "question": "16. Which HTML element is used to specify a favicon?",
+        "options": ["<favicon>", "<icon>", "<link rel='icon'>", "<meta name='favicon'>"],
+        "correct": 2
+    },
+    {
+        "question": "17. What is the correct HTML element for inserting a table?",
+        "options": ["<table>", "<grid>", "<tab>", "<data>"],
+        "correct": 0
+    },
+    {
+        "question": "18. What is the correct way to start an ordered list?",
+        "options": ["<ol>", "<ul>", "<list>", "<li>"],
+        "correct": 0
+    },
+    {
+        "question": "19. Which HTML element is used for grouping together inline elements?",
+        "options": ["<div>", "<span>", "<section>", "<article>"],
+        "correct": 1
+    },
+    {
+        "question": "20. What is the purpose of the 'id' attribute?",
+        "options": ["To style elements", "To uniquely identify an element", "To define a class", "To create a hyperlink"],
+        "correct": 1
+    },
+    {
+        "question": "21. Which HTML element is used to embed an iframe?",
+        "options": ["<frame>", "<iframe>", "<embed>", "<window>"],
+        "correct": 1
+    },
+    {
+        "question": "22. Which attribute is used in HTML forms to ensure a field is filled?",
+        "options": ["required", "validate", "check", "must"],
+        "correct": 0
+    },
+    {
+        "question": "23. What does the HTML 'placeholder' attribute do?",
+        "options": ["Displays a default value", "Adds a tooltip", "Displays a hint inside an input field", "Styles an input field"],
+        "correct": 2
+    },
+    {
+        "question": "24. Which HTML tag is used to play video?",
+        "options": ["<media>", "<mp4>", "<video>", "<movie>"],
+        "correct": 2
+    },
+    {
+        "question": "25. What does the HTML5 canvas element do?",
+        "options": ["Creates a drawing area", "Displays images", "Embeds videos", "Adds animations"],
+        "correct": 0
+    },
+    {
+        "question": "26. What is the purpose of the <svg> tag?",
+        "options": ["To create scalable vector graphics", "To display images", "To format text", "To create animations"],
+        "correct": 0
+    },
+    {
+        "question": "27. Which API is used to store large amounts of structured data client-side?",
+        "options": ["Web Storage API", "IndexedDB API", "Cache API", "LocalStorage API"],
+        "correct": 1
+    },
+    {
+        "question": "28. What does the 'defer' attribute in the <script> tag do?",
+        "options": ["Loads the script immediately", "Delays script execution until the HTML is parsed", "Prevents script execution", "Executes script multiple times"],
+        "correct": 1
+    },
+    {
+        "question": "29. What is the default character encoding for HTML5?",
+        "options": ["ASCII", "ISO-8859-1", "UTF-8", "ANSI"],
+        "correct": 2
+    },
+    {
+        "question": "30. What does the 'alt' attribute do in an <img> tag?",
+        "options": ["Specifies the image source", "Defines an alternative text if the image fails to load", "Changes the image size", "Adds a caption"],
+        "correct": 1
+    },
+    {
+        "question": "31. Which tag is used to define a footer in HTML5?",
+        "options": ["<footer>", "<bottom>", "<foot>", "<section>"],
+        "correct": 0
+    },
+    {
+        "question": "32. Which attribute is used to specify an image source in the <img> tag?",
+        "options": ["src", "href", "link", "source"],
+        "correct": 0
+    },
+    {
+        "question": "33. Which tag is used to define an interactive button?",
+        "options": ["<click>", "<btn>", "<button>", "<press>"],
+        "correct": 2
+    },
+    {
+        "question": "34. Which HTML tag is used to create a definition list?",
+        "options": ["<list>", "<dl>", "<deflist>", "<dlist>"],
+        "correct": 1
+    },
+    {
+        "question": "35. Which tag is used to define a progress bar in HTML5?",
+        "options": ["<progress>", "<bar>", "<meter>", "<status>"],
+        "correct": 0
+    },
+    {
+        "question": "36. Which HTML tag is used to improve SEO by defining a web page's description?",
+        "options": ["<description>", "<meta>", "<summary>", "<title>"],
+        "correct": 1
+    },
+    {
+        "question": "37. Which tag helps search engines understand the primary heading of a page?",
+        "options": ["<h1>", "<title>", "<header>", "<meta>"],
+        "correct": 0
+    },
+    {
+        "question": "38. Which meta tag is used to specify the character encoding for a webpage?",
+        "options": ["<meta encoding=\"utf-8\">", "<meta charset=\"utf-8\">", "<encoding>", "<charset>"],
+        "correct": 1
+    },
+    {
+        "question": "39. Which tag is not used for create table in HTML5?",
+        "options": ["<t>", "<table>", "<tr>", "<td>"],
+        "correct": 0
+    },
+    {
+        "question": "40. Which meta tag helps in mobile-friendly website development?",
+        "options": ["<meta name=\"mobile\" content=\"true\">", "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">", "<meta name=\"responsive\" content=\"enabled\">", "<meta name=\"screen\" content=\"auto-scale\">"],
+        "correct": 1
+    },
+    {
+        "question": "41. Which attribute is used in HTML to improve accessibility for screen readers?",
+        "options": ["data-label", "aria-label", "accessibility-name", "screen-name"],
+        "correct": 1
+    },
+    {
+        "question": "42. What is the purpose of tabindex in HTML?",
+        "options": ["To create an index of all tabs on a page", "To control the tabbing order for keyboard navigation", "To highlight a tab on hover", "To automatically switch between tabs"],
+        "correct": 1
+    },
+    {
+        "question": "43. Which HTML API is used to store key-value data in the user's browser?",
+        "options": ["Local Storage API", "Web Storage API", "Database API", "Cache API"],
+        "correct": 1
+    },
+    {
+        "question": "44. Which API is used to capture a user's location in HTML5?",
+        "options": ["Location API", "GPS API", "Geolocation API", "Position API"],
+        "correct": 2
+    },
+    {
+        "question": "45. Which HTML5 API allows a website to work offline?",
+        "options": ["Web Workers API", "Offline Cache API", "Service Worker API", "Web Storage API"],
+        "correct": 2
+    },
+    {
+        "question": "46. Which HTML5 element is used to define a piece of self-contained content?",
+        "options": ["<section>", "<aside>", "<article>", "<main>"],
+        "correct": 2
+    },
+    {
+        "question": "47. Which attribute prevents form submission if a field is empty?",
+        "options": ["validate", "required", "not-null", "mandatory"],
+        "correct": 1
+    },
+    {
+        "question": "48. Which HTML5 input type is used for selecting a date?",
+        "options": ["type='datetime'", "type='datepicker'", "type='date'", "type='calendar'"],
+        "correct": 2
+    },
+    {
+        "question": "49. Which HTML5 tag is used to create a progress bar?",
+        "options": ["<progress>", "<bar>", "<meter>", "<gauge>"],
+        "correct": 0
+    },
+    {
+        "question": "50. Which tag is used to insert a line break in HTML?",
+        "options": ["<br>", "<lb>", "<newline>", "<break>"],
+        "correct": 0
+    }
+]
