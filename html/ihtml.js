@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-    fetch("ihtml.json")
+    fetch("ihtml.json?v=" + new Date().getTime())
         .then(response => response.json())
         .then(quizData => {
             const questionElement = document.getElementById("question");
